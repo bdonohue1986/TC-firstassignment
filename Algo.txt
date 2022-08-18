@@ -1,2 +1,3 @@
 Step 1 order the pizza
+step 1a extra cheese
 Step 2 wait for delivery
